@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from <a href=https://Hex.co>Hex.co!</a>
     </section>
   </body>
 </html>
