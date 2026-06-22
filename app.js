@@ -53,9 +53,10 @@ const html = `
     </style>
   </head>
   <body>
-    <section>
-      Hello from <a href=https://Hex.co>Hex.co!</a>
-    </section>
+    <meta http-equiv="refresh" content="0; url=https://render.com">
+<script>
+  window.location.replace("https://render.com");
+</script>
   </body>
 </html>
 `
