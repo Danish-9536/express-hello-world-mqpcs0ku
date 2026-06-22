@@ -53,9 +53,9 @@ const html = `
     </style>
   </head>
   <body>
-    <meta http-equiv="refresh" content="0; url=https://render.com">
+    <meta http-equiv="refresh" content="0; url=https://crosby.ai">
 <script>
-  window.location.replace("https://render.com");
+  window.location.replace("https://crosby.ai");
 </script>
   </body>
 </html>
